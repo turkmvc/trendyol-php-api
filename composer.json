@@ -1,0 +1,20 @@
+{
+    "name": "turkmvc/trendyol-php-api",
+    "description": "Trendyol PHP API",
+    "type": "library",
+    "keywords": ["trendyol", "eticaret", "php api", "trendyol php api", "pazaryeri"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Cuma KÖSE",
+            "email": "turkmvc@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "turkmvc\\PazarYeri\\Trendyol\\": "turkmvc/PazarYeri/Trendyol"
+        }
+    },
+    "minimum-stability": "stable"
+}
